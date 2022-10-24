@@ -1,0 +1,44 @@
+
+.menu{
+    margin:none;
+  background-color:burlywood;
+  display: flex;
+
+text-align: center;
+justify-content: center;
+  width: 100%;
+  height: 1cm;
+  }
+
+  @media screen and (max-width: 600px) {
+    
+.menu{
+  margin:none;
+background-color:burlywood;
+display: block;
+
+text-align: center;
+justify-content: center;
+width: 100%;
+height: 3cm;
+}
+
+  }
+
+
+
+
+  /* max device width */
+@media screen and (max-device-width: 480px) {
+	.menu{
+    margin:none;
+  background-color:burlywood;
+  display: block;
+  
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  height: 5cm;
+  }
+  
+}

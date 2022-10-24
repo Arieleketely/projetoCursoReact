@@ -1,0 +1,45 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+  font-family: 'Roboto Condensed', sans-serif;
+  
+}
+html,body,#root{
+  background-color:floralwhite;
+  height: 100%;
+}
+
+.menu{
+  display: flex;
+
+
+
+width: 100%;
+height: 1cm;
+}
+ul li{
+  margin:5px;
+
+}
+
+li {
+  list-style-type: none;
+  
+}
+.cor{
+  color: white;
+  text-decoration: none;
+}
+.Rodape{
+  position: absolute;
+	bottom: 0;
+
+}
+img{
+width: 100%;
+height: 100%;
+}
+ul  li :hover{
+  color:saddlebrown;
+    }

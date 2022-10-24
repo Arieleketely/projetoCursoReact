@@ -1,0 +1,28 @@
+.formulario div{
+    margin:10px;
+padding: 10px;
+}
+.buttonSalvar{
+
+    background:burlywood;
+    width: 70%;
+height: 90%;
+color: white;
+border-radius: 10px;
+border-color: black;
+}
+
+.buttonSalvar:hover{
+
+    background: white;
+
+color: burlywood;
+
+}
+input{
+    background: burlywood;
+    color:white
+}
+select{
+    background: burlywood;
+}
